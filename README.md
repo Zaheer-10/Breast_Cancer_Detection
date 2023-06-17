@@ -13,13 +13,12 @@ scikit_learn==1.2.2
 streamlit==1.18.1
 You can install these dependencies by executing the command:
 
-shell
 Copy code
 pip install -r requirements.txt
 :rocket: Deployment
 The application is deployed using Streamlit, which provides an interactive user interface. To run the application, use the following command:
 
-shell
+arduino
 Copy code
 streamlit run app.py
 :computer: Usage
@@ -32,13 +31,9 @@ The application will display whether the tumor is benign or malignant.
 :camera: Placeholder for Image and Link
 To add a placeholder for an image, you can use the following markdown syntax:
 
-markdown
-Copy code
 ![Image Placeholder](path/to/image.png)
 To add a placeholder for a link, use the following markdown syntax:
 
-markdown
-Copy code
 [Link Placeholder](https://www.example.com)
 Feel free to replace the placeholders with actual image paths and links relevant to your project.
 
