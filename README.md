@@ -3,6 +3,9 @@
 This repository contains a mini project for breast cancer prediction using machine learning algorithms. The project includes a user-friendly application that allows users to input relevant features and predicts whether a breast tumor is benign or malignant. :bar_chart: :mag_right:
 <iframe width="560" height="315" src="https://drive.google.com/uc?id=1KVfHJW8P6jJf0C7g2kk-iqgg8HVQfsLT&export=download" frameborder="0" allowfullscreen></iframe>
 
+Check out the demo video [here](https://drive.google.com/uc?id=1KVfHJW8P6jJf0C7g2kk-iqgg8HVQfsLT&export=download).
+
+
 :pushpin: Requirements
 To run the project, make sure you have the following dependencies installed:
 
