@@ -40,7 +40,6 @@ def get_clean_data():
   
   return data
 
-
 def main():
   data = get_clean_data()
   model, scaler = create_model(data)
@@ -51,6 +50,5 @@ def main():
   with open('Model/scaler.pkl', 'wb') as f:
     pickle.dump(scaler, f)
   
-
 if __name__ == '__main__':
   main()
