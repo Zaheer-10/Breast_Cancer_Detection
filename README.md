@@ -5,6 +5,8 @@ This repository contains a mini project for breast cancer prediction using machi
 
 Check out the demo video [here](https://drive.google.com/uc?id=1KVfHJW8P6jJf0C7g2kk-iqgg8HVQfsLT&export=download).
 
+Check out the video demonstration [here](https://github.com/Zaheer-10/Breast_Cancer_Detection/blob/main/Breast%20cancer%20Project%20Over-%20view.mp4).
+
 
 :pushpin: Requirements
 To run the project, make sure you have the following dependencies installed:
