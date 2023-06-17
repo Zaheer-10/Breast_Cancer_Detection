@@ -14,7 +14,7 @@ To run the project, make sure you have the following dependencies installed:
 And more you can find in requirement.txt
 You can install these dependencies by executing the command:
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 :rocket: Deployment
 The application is deployed using Streamlit, which provides an interactive user interface. To run the application, use the following command:
