@@ -16,16 +16,15 @@ To run the project, make sure you have the following dependencies installed:
 - ` scikit_learn==1.2.2` 
 - ` streamlit==1.18.1` 
 - And more you can find in`requirement.txt`
-- 
-You can install these dependencies by executing the command:
-` pip install -r requirements.txt` 
+- You can install these dependencies by executing the command:
+- ` pip install -r requirements.txt` 
 
 :rocket: **Deployment**.
 
 The application is deployed using Streamlit, which provides an interactive user interface. To run the application, use the following command:
 `streamlit run app.py` .
 
-**Link** : (https://soulofmercara.streamlit.app/)
+**Link** : https://soulofmercara.streamlit.app/
 
 
 :computer: **Usage**
