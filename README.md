@@ -3,6 +3,7 @@
 This repository contains a mini project for breast cancer prediction using machine learning algorithms. The project includes a user-friendly application that allows users to input relevant features and predicts whether a breast tumor is benign or malignant.
 
 :camera: *Demo Picture*.
+
 ![alt text](https://github.com/Zaheer-10/Breast_Cancer_Detection/blob/main/Demo_pic.png)
 
 :pushpin: **Requirements**.
@@ -24,9 +25,11 @@ You can install these dependencies by executing the command:
 The application is deployed using Streamlit, which provides an interactive user interface. To run the application, use the following command:
 `streamlit run app.py` .
 
-** Link : ** ![Link :](https://soulofmercara.streamlit.app/)
+**Link** : (https://soulofmercara.streamlit.app/)
+
 
 :computer: **Usage**
+
 Follow the steps below to use the breast cancer predictor application:
 
 - Launch the application by running the above command.
