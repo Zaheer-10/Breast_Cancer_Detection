@@ -7,6 +7,9 @@ vscode.
 # C extensions
 *.so
 
+# /environments
+BCProject
+
 # Distribution / packaging
 .Python
 build/
